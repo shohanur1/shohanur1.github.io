@@ -1,0 +1,77 @@
+table,  td , th {
+  border: 1px solid red;
+height: 50px;
+border-collapse: collapse;
+
+}
+.table {
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+.Caption{
+font-weight:bold;
+font-size:50px;
+}
+
+.img{
+
+height:300px;
+width:800px;
+border:5px;
+
+}
+ .td1{
+
+text-align:center;
+}
+.navi{
+float:left;
+width: 30%;
+height : 250 px;
+background :#DAF7A6;
+
+}
+
+
+.footer {
+  background-color: #33ffff ;
+  padding: 10px;
+  text-align: left;
+  color: white ;
+height:300px;
+}
+
+.article {
+float: right;
+padding: 25px;
+width: 66.5%;
+background: ##33ccff;
+height: 200px;
+}
+.art {
+  -webkit-flex: 3;
+  -ms-flex: 3;
+  flex: 3;
+  background-color: #00b3b3;
+  padding: 10px;
+}
+section {
+  display: -webkit-flex;
+  display: flex;
+}
+.h2{
+font-size:30;
+color:#FF5733;
+text-align:center;
+
+}
+.h4{
+font-size:25;
+color:#28B463;
+text-align:center;
+height:100;
+
+}
